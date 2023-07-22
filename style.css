@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.Dice{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.head{
+    
+    color: blue;
+    font-style: italic;
+}
+.head1{
+    
+    color: blue;
+    margin-left: 25rem;
+    font-style: italic;
+}
+.d1{
+    padding: 5rem;
+}
+.d2{
+    padding: 5rem;
+}
